@@ -1,0 +1,178 @@
+{
+
+
+
+
+  
+
+  "TheDirt" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "TheDirt",
+  "title":"The Dirt  2019",
+  "img" : "img/pelis/TheDirt.jpg",
+  "pg" : "https://storage.googleapis.com/brilliant-flame-242818.appspot.com/Copi/The.Dirt.xmdx.Latino.hd1080.mp4"
+  }
+
+
+  ,
+  "JohnWick3" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "JohnWick3",
+  "title":"John Wick 3 2019",
+  "img" : "img/pelis/JohnWick3.jpg",
+  "pg" : "https://storage.googleapis.com/brilliant-flame-242818.appspot.com/archivos/24-05-19/file.5ce882b3d1aa3.25639.458156.screener.latino.mp4"
+  }
+
+
+
+
+,
+  "Godzilla19" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Godzilla19",
+  "title":"Godzilla: Rey de los Monstruos 2019",
+  "img" : "img/pelis/gozilla.jpg",
+  "pg" : "https://mega.pelisplay.tv/embed/vip.php?u=NGN6LmJhdmdueS56bnAuMTc1MzczLjgwMDYyLjNvMnE5OTkzcW5zcDUucnl2cy85MS02MC03MC9mYml2dXBlbi96YnAuZ2JjZmNjbi44MTgyNDItcnpueXMtZ2Fudnl5dmVvL3picC5mdmNucnl0YmJ0LnJ0bmViZ2YvLzpmY2dndQ&fondo=https%3A%2F%2Fwww.pelisplay.tv%2Fstorage%2Fimagenes%2Fextras%2Frea98TEQvc6GB14ZNbWljtIySsX.jpg"
+  }
+
+
+
+
+ ,
+  "toy4" : {
+    "vid":"1",
+      "id" : "id0-1",
+    "idname" : "toy4",
+    "title":"Toy Story 4",
+    "img" : "img/pelis/toy4.jpg",
+    "pg" : "https://drive.google.com/file/d/13jY4QRi6LX-5_cSIShY1g0kEtRtEeDZn/preview?authuser=0"
+    },
+ 
+ 
+  "Spidermanunnue" : {
+    "vid":"1",
+      "id" : "id0",
+    "idname" : "Spidermanunnue",
+    "title":"Spider man un nuevo universo 2019",
+    "img" : "img/pelis/spidemanuni.jpg",
+    "pg" : "https://drive.google.com/file/d/1ETA7QznnWfLie9vWgH7fZ0VLtfhYyeR7/preview?authuser=0"
+    },
+
+    "BirdBox" : {
+      "vid":"1",
+      "id" : "id1",
+    "idname" : "BirdBox",
+    "title":"Bird Box 2019",
+    "img" : "img/pelis/BirdBox.jpg",
+    "pg" : "https://drive.google.com/file/d/1z9UzJ_vcTulfAD8NdYqER_SttvXjVru0/preview?authuser=0"
+    },
+
+    "aladdin" : {
+      "vid":"1",
+      "id" : "id2",
+    "idname" : "aladdin",
+    "title":"Aladdin 2019",
+    "img" : "img/pelis/aladdin.jpg",
+    "pg" : "https://drive.google.com/file/d/1V8WTKaQcE_cJcCIjByhxaYRE4e-UiF7a/preview?authuser=0"
+    },
+
+    "nmisteriobordo" : {
+      "vid":"1",
+      "id" : "id3",
+    "idname" : "nmisteriobordo",
+    "title":"Misterio a bordo 2019",
+    "img" : "img/pelis/misteriobordo.jpg",
+    "pg" : "https://drive.google.com/file/d/1o4UKOkRNUQHxVh_ds322ygQ2xzn4JUdU/preview?authuser=0"
+    }
+
+    ,
+
+    "Aniquilacion" : {
+      "vid":"1",
+      "id" : "id4",
+    "idname" : "Aniquilacion",
+    "title":"Aniquilacion 2019",
+    "img" : "img/pelis/aniquilacion.jpg",
+    "pg" : "https://drive.google.com/file/d/1E-BAcUpB3z9KgCwe-1meN1DvZvjG-Iy1/preview?authuser=0"
+    }
+
+
+    ,
+
+    "Comoentrenaratudragon" : {
+      "vid":"1",
+      "id" : "id5",
+    "idname" : "Comoentrenaratudragon",
+    "title":"Cómo entrenar a tu dragón 2019",
+    "img" : "img/pelis/entrenartudragon.jpg",
+    "pg" : "https://drive.google.com/file/d/1MGiUKYejWSWNMgFyfbHZ08j87JwSVFP-/preview?authuser=0"
+    }
+    ,
+
+    "deadwood" : {
+      "vid":"1",
+      "id" : "id6",
+    "idname" : "deadwood",
+    "title":"Dead wood 2019",
+    "img" : "img/pelis/deadwood.jpg",
+    "pg" : "https://drive.google.com/file/d/1_TQi5vKt0ililcPHYVslIvvwyIo8ct78/preview?authuser=0"
+    }
+    ,
+
+    "elninoquedomoelviento" : {
+      "vid":"1",
+      "id" : "id7",
+    "idname" : "elninoquedomoelviento",
+    "title":"El niño que domo el viento 2019",
+    "img" : "img/pelis/domoviento.jpg",
+    "pg" : "https://drive.google.com/file/d/16c6-luMQdjXJfLQkKNpN3RoSPRSyqX3b/preview?authuser=0"
+    }
+    ,
+
+    "Elsilencio" : {
+      "vid":"1",
+      "id" : "id8",
+    "idname" : "Elsilencio",
+    "title":"El silencio 2019",
+    "img" : "img/pelis/Elsilencio.jpg",
+    "pg" : "https://drive.google.com/file/d/1JXweK1bmWl7LyhX7w_BCCPVKBcWS6gp-/preview?authuser=0"
+    }
+
+    ,
+
+    "enlasbuenasyenlasmalas" : {
+      "vid":"1",
+      "id" : "id9",
+    "idname" : "enlasbuenasyenlasmalas",
+    "title":"Enlas buenas y en las malas 2019",
+    "img" : "img/pelis/enlasbuenasyenlasmalas.jpg",
+    "pg" : "https://drive.google.com/file/d/1tueGTJ7A4Op7LAEWatKNC_y3aIdyzxuh/preview?authuser=0"
+    }
+    ,
+
+    "hombresdenegro" : {
+      "vid":"1",
+      "id" : "id10",
+    "idname" : "hombresdenegro",
+    "title":"Hombres de negro 2019",
+    "img" : "img/pelis/hombresdenegro.jpg",
+    "pg" : "https://drive.google.com/file/d/17drYCGShmi5ybY3Lkn7Xxxov4IXZ_Vvy/preview?authuser=0"
+    }
+    ,
+
+    "Cargo" : {
+      "vid":"1",
+      "id" : "id11",
+    "idname" : "Cargo",
+    "title":"Cargo 2019",
+    "img" : "img/pelis/cargo.jpg",
+    "pg" : "https://drive.google.com/file/d/17vYr4LVV80NFDRyTgZDR96cUP0IOsuYB/preview?authuser=0"
+    }
+  
+    
+
+    
+}
